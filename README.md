@@ -1,8 +1,8 @@
 # project1-auth-api
 
-[main-heroku-link](https://idrees-osama-project1-auth-api.herokuapp.com/)
-[osama repo link](https://github.com/osama-abdallah/project1-auth-api)
-[idrees repo link](https://github.com/idreesalmasri/project1-auth-api)
+[main-heroku-link](https://idrees-osama-project1-auth-api.herokuapp.com/)  
+[osama repo link](https://github.com/osama-abdallah/project1-auth-api)  
+[idrees repo link](https://github.com/idreesalmasri/project1-auth-api)  
 
 ## My notes
 
