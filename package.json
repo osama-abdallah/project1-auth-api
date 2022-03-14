@@ -1,7 +1,7 @@
 {
   "name": "project1-auth-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "[main-heroku-link]()",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node index.js",
